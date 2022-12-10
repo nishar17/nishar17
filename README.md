@@ -1,3 +1,4 @@
+<img width="100%" src="https://github.com/nishar17/nishar17/blob/main/Mahammad%20Nishar.png">
 <h1 align="center">Hi 👋, I'm Mahammad Nishar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
